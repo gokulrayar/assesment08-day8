@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Productdata\Productdata\bin\Debug\Productdata.exe.config
+C:\Users\rayar\source\repos\Productdata\Productdata\bin\Debug\Productdata.exe
+C:\Users\rayar\source\repos\Productdata\Productdata\bin\Debug\Productdata.pdb
+C:\Users\rayar\source\repos\Productdata\Productdata\obj\Debug\Productdata.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Productdata\Productdata\obj\Debug\Productdata.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Productdata\Productdata\obj\Debug\Productdata.exe
+C:\Users\rayar\source\repos\Productdata\Productdata\obj\Debug\Productdata.pdb
